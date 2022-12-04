@@ -19,7 +19,7 @@ public class Calculator extends HttpServlet
 	public long mulFucn(long first, long second){
 		
 		return first*second;
-	} # java
+	} 
 	
 	
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
